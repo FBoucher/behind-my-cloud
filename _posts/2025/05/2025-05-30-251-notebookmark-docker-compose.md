@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deploying an .NET Aspire project locally with Docker Compose (stream 251)"
-featured-image: https://img.youtube.com/vi/CZ1DzuAEAzM/hqdefault.jpg
+featured-image: https://img.youtube.com/vi/-4qPlaX-6kc/hqdefault.jpg
 date: 2025-05-30 06:30 -0500
 categories: notebookmark
 ---
@@ -13,7 +13,7 @@ Nice stream this week, live codeing on Note Bookmark. We added the required pack
 
 ## Replay
 
-{% include youtube.html id="CZ1DzuAEAzM" %}
+{% include youtube.html id="-4qPlaX-6kc" %}
 
 <br/><!--more-->
 
