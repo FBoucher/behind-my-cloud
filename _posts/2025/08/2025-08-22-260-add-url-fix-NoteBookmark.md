@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stream setup is repaired! Fixing some dependancies in 2D6 Dungeon App (stream 260)"
+title: "Adding AI to an App: Let's it search online for us (stream 260)"
 featured-image: https://img.youtube.com/vi/GY1RvLaEuck/hqdefault.jpg
 date: 2025-08-22 06:30 -0500
 categories: notebookmark
