@@ -21,7 +21,7 @@ This repository is to keep tracks of all work done on the stream (aka [https://w
 - [Blind2021 (aka Project Dover)](#blind2021)
 - [CloudBot](#cloudbot)
 - [Learning](#learning)
-- [OSS Maintenance](maintenance)
+- [OSS Maintenance](#maintenance)
 - [MyClippings-Parser](#myclippings-parser)
 - [NoteBookmark](#NoteBookmark)
 - [Not-a-Dog-Workshop](#not-a-dog-workshop)
@@ -489,8 +489,6 @@ Note Bookmark is a website to keep tracks of the things you read. It's a new spi
 <h3 id="maintenance">OSS Maintenance</h3>[🔝](#maintenance)
 
 Those are the streams when we work on making the streams better. Setting-up tools, boards, and other things 
-
-<!--img src="https://raw.githubusercontent.com/FBoucher/2d6-dungeon-app/main/medias/new_adventure.png" alt="new adventure screen" width="400"/-->
 
  🔗 [OSS Maintenance Boards](https://github.com/users/FBoucher/projects/15/)
 
