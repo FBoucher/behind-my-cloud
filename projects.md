@@ -43,7 +43,7 @@ This repository is to keep tracks of all work done on the stream (aka [https://w
 <table>
   <thead>
     <tr>
-      <th style="width:80px">Date</th>
+      <th style="width:85px">Date</th>
       <th>Title</th>
     </tr>
   </thead>
@@ -70,7 +70,7 @@ An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (M
 <table>
 <thead>
   <tr>
-    <th style="width:80px">Date</th>
+    <th style="width:85px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -97,7 +97,7 @@ A trivia game to play with the viewers while streaming.
 <table>
 <thead>
   <tr>
-    <th style="width:80px">Date</th>
+    <th style="width:85px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -129,7 +129,7 @@ Text-based adventure game, in a near future where you and your glasses companion
 <table>
 <thead>
   <tr>
-    <th style="width:80px">Date</th>
+    <th style="width:85px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -156,7 +156,7 @@ An online request/idea voting platform manage by the community. You pitch your i
 <table>
 <thead>
   <tr>
-    <th style="width:80px">Date</th>
+    <th style="width:85px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -183,7 +183,7 @@ Simple Twitch chatbot for Twitch Stream, build with Comfy.JS. First, it was a pr
 <table>
 <thead>
   <tr>
-    <th style="width:80px">Date</th>
+    <th style="width:85px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -210,7 +210,7 @@ This workshop is for beginners who would like to learn more about the cloud and 
 <table>
 <thead>
   <tr>
-    <th style="width:80px">Date</th>
+    <th style="width:85px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -240,7 +240,7 @@ A Resource is "expired" when it has a tag expireOn older then the current date.
 <table>
 <thead>
   <tr>
-    <th style="width:80px">Date</th>
+    <th style="width:85px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -268,7 +268,7 @@ Transforming the flat file into an Array JSON Objects.
 <table>
 <thead>
   <tr>
-    <th style="width:80px">Date</th>
+    <th style="width:85px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -302,7 +302,7 @@ The following features are supported in this current version:
 <table>
 <thead>
   <tr>
-    <th style="width:80px">Date</th>
+    <th style="width:85px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -330,7 +330,7 @@ Az Pics is a simple solution to manage your pictures and images. It will levrage
 <table>
 <thead>
   <tr>
-    <th style="width:80px">Date</th>
+    <th style="width:85px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -357,7 +357,7 @@ An automatic video converter using Azure Medias Services (AMS) with Azure Functi
 <table>
 <thead>
   <tr>
-    <th style="width:80px">Date</th>
+    <th style="width:85px">Date</th>
     <th>Title</th>
   </tr>
 </thead>
@@ -384,7 +384,7 @@ An automatic video converter using Azure Medias Services (AMS) with Azure Functi
 <table>
   <thead>
     <tr>
-      <th style="width:80px">Date</th>
+      <th style="width:85px">Date</th>
       <th>Title</th>
     </tr>
   </thead>
@@ -408,7 +408,7 @@ Sometimes there is no real projects. It's about an experiment or to learn a new 
 <table>
   <thead>
     <tr>
-      <th style="width:80px">Date</th>
+      <th style="width:85px">Date</th>
       <th>Title</th>
     </tr>
   </thead>
@@ -439,7 +439,7 @@ This project is a digital version of the game, with creator's approval. It's a w
 <table>
   <thead>
     <tr>
-      <th style="width:80px">Date</th>
+      <th style="width:85px">Date</th>
       <th>Title</th>
     </tr>
   </thead>
@@ -468,13 +468,13 @@ Note Bookmark is a website to keep tracks of the things you read. It's a new spi
 <table>
   <thead>
     <tr>
-      <th style="width:80px">Date</th>
+      <th style="width:85px">Date</th>
       <th>Title</th>
     </tr>
   </thead>
     {% for post in site.categories["NoteBookmark"] %}
     <tr>
-        <td style="nowrap;"> {{ post.date | date: "%F" }} </td>
+        <td> {{ post.date | date: "%F" }} </td>
         <td> 
             <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
         </td>
@@ -495,7 +495,7 @@ Those are the streams when we work on making the streams better. Setting-up tool
 <table>
   <thead>
     <tr>
-      <th style="width:80px">Date</th>
+      <th style="width:90px">Date</th>
       <th>Title</th>
     </tr>
   </thead>
