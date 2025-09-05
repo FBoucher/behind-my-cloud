@@ -4,7 +4,7 @@ title: "Stream 174 - Deleting, Moving, Changing Code; in short a spring cleaning
 featured-image: https://img.youtube.com/vi/5iKOB8elfkI/hqdefault.jpg
 date: 2021-05-19 06:30 -0500
 streaming date: 2021-05-12
-categories: azUrlShortener
+categories: azurlshortener
 ---
 
 ## Summary
