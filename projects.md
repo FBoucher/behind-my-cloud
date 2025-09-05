@@ -21,6 +21,7 @@ This repository is to keep tracks of all work done on the stream (aka [https://w
 - [Blind2021 (aka Project Dover)](#blind2021)
 - [CloudBot](#cloudbot)
 - [Learning](#learning)
+- [OSS Maintenance](maintenance)
 - [MyClippings-Parser](#myclippings-parser)
 - [NoteBookmark](#NoteBookmark)
 - [Not-a-Dog-Workshop](#not-a-dog-workshop)
@@ -481,6 +482,34 @@ Note Bookmark is a website to keep tracks of the things you read. It's a new spi
     {% endfor %}
 </table>
 
+
+
+---
+
+<h3 id="maintenance">OSS Maintenance</h3>[🔝](#maintenance)
+
+Those are the streams when we work on making the streams better. Setting-up tools, boards, and other things 
+
+<!--img src="https://raw.githubusercontent.com/FBoucher/2d6-dungeon-app/main/medias/new_adventure.png" alt="new adventure screen" width="400"/-->
+
+ 🔗 [OSS Maintenance Boards](https://github.com/users/FBoucher/projects/15/)
+
+<table>
+  <thead>
+    <tr>
+      <th style="width:80px">Date</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+    {% for post in site.categories["maintenance"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
 
 
 
