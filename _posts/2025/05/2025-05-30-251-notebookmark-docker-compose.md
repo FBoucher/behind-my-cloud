@@ -3,7 +3,7 @@ layout: post
 title: "Deploying an .NET Aspire project locally with Docker Compose (stream 251)"
 featured-image: https://img.youtube.com/vi/-4qPlaX-6kc/hqdefault.jpg
 date: 2025-05-30 06:30 -0500
-categories: notebookmark
+categories: NoteBookmark
 ---
 ## Summary
 
@@ -19,7 +19,7 @@ Nice stream this week, live codeing on Note Bookmark. We added the required pack
 
 ### Project
 
-All the code for this project is available on GitHub: notebookmark - https://github.com/FBoucher/notebookmark
+All the code for this project is available on GitHub: NoteBookmark - https://github.com/FBoucher/NoteBookmark
 
 ### Raids
 

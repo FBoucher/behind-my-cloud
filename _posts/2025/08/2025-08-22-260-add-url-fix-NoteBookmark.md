@@ -3,7 +3,7 @@ layout: post
 title: "Adding AI to an App: Let's it search online for us (stream 260)"
 featured-image: https://img.youtube.com/vi/GY1RvLaEuck/hqdefault.jpg
 date: 2025-08-22 06:30 -0500
-categories: notebookmark
+categories: NoteBookmark
 ---
 
 ## Summary
