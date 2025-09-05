@@ -474,7 +474,7 @@ Note Bookmark is a website to keep tracks of the things you read. It's a new spi
   </thead>
     {% for post in site.categories["NoteBookmark"] %}
     <tr>
-        <td> {{ post.date | date: "%F" }} </td>
+        <td style="nowrap;"> {{ post.date | date: "%F" }} </td>
         <td> 
             <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
         </td>
