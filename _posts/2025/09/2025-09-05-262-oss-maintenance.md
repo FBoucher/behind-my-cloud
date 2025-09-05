@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OSS Project Maintenance, planning, tooling(stream 262)"
-featured-image: https://img.youtube.com/vi/eErei-pjMmI/hqdefault.jpg
+featured-image: https://img.youtube.com/vi/t1uRlJm1Y9A/hqdefault.jpg
 date: 2025-09-05 06:30 -0500
 categories: maintenance
 ---
@@ -12,7 +12,7 @@ In this stream we created a Github dashboard (under projects) to track the work 
 
 ## Replay
 
-{% include youtube.html id="eErei-pjMmI" %}
+{% include youtube.html id="t1uRlJm1Y9A" %}
 
 <br/><!--more-->
 
