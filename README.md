@@ -6,6 +6,39 @@ This repository the backend of the website **[Beyond My Cloud](https://behindmyc
 
 # Projects
 
+## [AzUrlShortener](https://github.com/FBoucher/AzUrlShortener)
+
+<img src="https://github.com/FBoucher/stream-projects/raw/main/medias/Url%20Shortener_800.png" alt="AzUrlShortener cover" width="400"/>
+
+An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (Microsoft cloud) in your subscription.
+
+🔗 [https://github.com/FBoucher/AzUrlShortener](https://github.com/FBoucher/AzUrlShortener)
+
+
+---
+
+## [2D6 Dungeon App](https://github.com/FBoucher/2d6-dungeon-app)
+
+<img src="https://github.com/FBoucher/2d6-dungeon-app/raw/main/medias/2d6_app_game.png" alt="2D6 Dungeon App cover" width="400"/>
+
+Digital adaptation of 2D6 Dungeon, a classic style dungeon crawler, print and play. This is a web app that will help you to play the game.
+
+🔗 [https://github.com/FBoucher/2d6-dungeon-app](https://github.com/FBoucher/2d6-dungeon-app)
+
+
+---
+
+## [Note Bookmark](https://github.com/FBoucher/NoteBookmark)
+
+<img src="https://github.com/FBoucher/NoteBookmark/raw/main/gh/images/NoteBookmark-Tour_hd.gif" alt="Note Bookmark cover" width="400"/>
+
+Web App to collect thoughts about articles, and blob posts read and then aggregate them in a Reading Notes blog post.
+
+🔗 [https://github.com/FBoucher/NoteBookmark](https://github.com/FBoucher/NoteBookmark)
+
+
+---
+
 ## [TinyBlazorAdmin](https://github.com/FBoucher/TinyBlazorAdmin)
 
 ![Stream_Screenshots](https://github.com/FBoucher/TinyBlazorAdmin/raw/main/medias/TinyBlazorAdmin.png)
@@ -17,16 +50,6 @@ This repository the backend of the website **[Beyond My Cloud](https://behindmyc
 
 ---
 
-## [AzUrlShortener](https://github.com/FBoucher/AzUrlShortener)
-
-<img src="https://github.com/FBoucher/stream-projects/raw/main/medias/Url%20Shortener_800.png" alt="AzUrlShortener cover" width="400"/>
-
-An simple and easy budget friendly Url Shortener for anyone. It runs in Azure (Microsoft cloud) in your subscription.
-
-🔗 [https://github.com/FBoucher/AzUrlShortener](https://github.com/FBoucher/AzUrlShortener)
-
-
----
 
 ## [Azure-Automatic-Video-Converter](https://github.com/FBoucher/Azure-Automatic-Video-Converter)
 
