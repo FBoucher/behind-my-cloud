@@ -19,6 +19,7 @@ This repository is to keep tracks of all work done on the stream (aka [https://w
 - [AzUrlShortener](#azurlshortener)
 - [Az Subscription Cleaner](#az-subscription-cleaner)
 - [Blind2021 (aka Project Dover)](#blind2021)
+- [CheckInDoc MCP](#check-in-doc-mcp)
 - [CloudBot](#cloudbot)
 - [Learning](#learning)
 - [OSS Maintenance](#maintenance)
@@ -508,6 +509,36 @@ Those are the streams when we work on making the streams better. Setting-up tool
     </tr>
     {% endfor %}
 </table>
+
+
+
+---
+
+<h3 id="check-in-doc-mcp">CheckInDoc MCP</h3>[🔝](#check-in-doc-mcp)
+
+CheckInDoc MCP, is a MCP server to check/ search in the specific documentation website that YOU set in configuration. Using Reka AI Research. It could be used by developers to search only on the documentation they prefer instead of the entire web. Another use case would be enterprise that could be hosting this MCP server set to search in their documentation and offer it to their users/clients/developers. 
+
+ 🔗 [https://github.com/FBoucher/check-in-doc-mcp](https://github.com/FBoucher/check-in-doc-mcp)
+
+<table>
+  <thead>
+    <tr>
+      <th style="width:90px">Date</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+    {% for post in site.categories["check-in-doc-mcp"] %}
+    <tr>
+        <td> {{ post.date | date: "%F" }} </td>
+        <td> 
+            <a href="{{ post.url | relative_url }}" class="post-link"> {{ post.title }} </a>
+        </td>
+    </tr>
+    {% endfor %}
+</table>
+
+
+
 
 
 
