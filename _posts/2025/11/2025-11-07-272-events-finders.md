@@ -1,5 +1,4 @@
 ---
----
 layout: post
 title: Let's start by reviewing PRs then working on a new demo C# + AI (stream 272)
 featured-image: https://img.youtube.com/vi/8vvVCd_LVbA/hqdefault.jpg

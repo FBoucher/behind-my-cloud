@@ -1,5 +1,4 @@
 ---
----
 layout: post
 title: I am not ready for Meld Studio (stream 271)
 featured-image: https://img.youtube.com/vi/zAPKE5poVgk/hqdefault.jpg
