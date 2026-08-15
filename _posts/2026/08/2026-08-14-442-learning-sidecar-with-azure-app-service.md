@@ -7,7 +7,7 @@ categories:  azUrlShortener
 ---
 
 ## Summary
-In this stream, Frank worked on making his open-source URL shortener more budget-friendly by successfully deploying it to Azure App Service using a sidecar pattern. He spent most of the session "arguing" with GitHub Copilot to refine the Bicep scripts and Docker configuration, ultimately getting the Blazer admin UI and the API to communicate privately. The vibe was energetic and conversational, featuring a chaotic "takeover" by digital friends at the start and some fun diversions into bike packing and the recent solar eclipse.
+Frank tackled a "budget-friendly" refactor of his URL shortener, successfully deploying a new architecture using Azure App Service sidecars to keep the API private and reduce costs. Between battling Copilot and managing a chaotic "digital friend takeover" in the chat, he managed to clean up the solution and update to the latest packages. It was a productive, high-energy session filled with bike-packing talk before Frank heads off for a two-week vacation in Italy.
 
 📺 - Twitch archive - stream no. 442
 
