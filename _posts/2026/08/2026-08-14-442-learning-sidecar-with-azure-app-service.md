@@ -7,7 +7,7 @@ categories:  azUrlShortener
 ---
 
 ## Summary
-Frank tackled a "budget-friendly" refactor of his URL shortener, successfully deploying a new architecture using Azure App Service sidecars to keep the API private and reduce costs. Between battling Copilot and managing a chaotic "digital friend takeover" in the chat, he managed to clean up the solution and update to the latest packages. It was a productive, high-energy session filled with bike-packing talk before Frank heads off for a two-week vacation.
+Frank tackled a "budget-friendly" refactor of his URL shortener, successfully deploying a new architecture using Azure App Service sidecars to keep the API private and reduce costs. Between battling Copilot and managing a chaotic "digital friend takeover" in the chat, he managed to clean up the solution and update to the latest packages. It was a productive, high-energy session filled with bike-packing talk before Frank heads off for a two-week vacation in Italy.
 
 📺 - Twitch archive - stream no. 442
 
